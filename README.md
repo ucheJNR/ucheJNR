@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ucheJNR
 - 👀 I’m interested in ... learning flutter
-- 🌱 I’m currently learning ...object oriented programming in phpp
+- 🌱 I’m currently learning ...object oriented programming in php
 - 💞️ I’m looking to collaborate on ... on developing an andriod and IOS app, using flutter
 - 📫 How to reach me ... akataprinceuche@gmail.com
 
